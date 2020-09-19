@@ -11,6 +11,10 @@
     "semi":"error",
     "prefer-rest-params": "error",
     "strict": ["error", "global"],
-    "no-var": "error"
+    "no-var": "error",
+    "camelcase": "error",
+    "eqeqeq": "error",
+    "quotes": ["error", "double"],
+    "default-param-last": ["error"]
     }
     }

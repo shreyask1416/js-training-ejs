@@ -11,4 +11,4 @@ function rightJustify(s) {
     return (space + s);
 
 }
-console.log(rightJustify('monty'));
+console.log(rightJustify("monty"));
