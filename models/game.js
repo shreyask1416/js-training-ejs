@@ -11,7 +11,7 @@ let game = {
     engine: "unreal engine4",
     producer: "kim han",
     publisher: "PUBG CPN",
-    freeToPlay: "online",
+    freeToPlay: "online"
 
 
 };
